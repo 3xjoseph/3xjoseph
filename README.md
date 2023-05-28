@@ -1,7 +1,6 @@
 [![MasterHead](https://ocl-steinberg-live.steinberg.net/_storage/asset/178442/storage/PNG_large_2000px/178442-large.png)](https://github.com/3xjoseph)
 <h1 align="center">Hi 👋, I'm Patrick Joseph Pronuevo</h1>
 <h3 align="center">A student programmer from Bulacan State University. I do frontend web development as well as mobile and game development. I am also a geek about the latest technologies today!</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/fmNdyGN4z5kAAAAi/hacking-lucy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3xjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="3xjoseph" /> </p>
 
@@ -9,11 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/3xj0seph" target="blank"><img src="https://img.shields.io/twitter/follow/3xj0seph?logo=twitter&style=for-the-badge" alt="3xj0seph" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/fmNdyGN4z5kAAAAi/hacking-lucy.gif">
+
 - 🔭 I’m currently working on [PurrfectCode](https://github.com/3xjoseph/PurrfectCode)
 
 - 🌱 I’m currently learning **Kotlin, Frameworks, and Blender**
 
-- 💬 Ask me about **Java and**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **3xjoseph@gmail.com**
 
