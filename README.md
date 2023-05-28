@@ -85,10 +85,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>            
 </p>
 <div align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3xjoseph&show_icons=true&locale=en" alt="3xjoseph" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3xjoseph&show_icons=true&locale=en&theme=radical" alt="3xjoseph" />
 </div>
 <br/>
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3xjoseph&" alt="3xjoseph" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3xjoseph&show_icons=true&locale=en&layout=compact" alt="3xjoseph" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3xjoseph&theme=radical" alt="3xjoseph" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3xjoseph&show_icons=true&locale=en&layout=compact&theme=radical" alt="3xjoseph" />
 </div>
