@@ -1,11 +1,16 @@
 ![MasterHead](https://ocl-steinberg-live.steinberg.net/_storage/asset/178442/storage/PNG_large_2000px/178442-large.png)
-
 <h1 align="center">Hi 👋, I'm Patrick Joseph Pronuevo</h1>
+<p align="left">
 <h3 align="center">A student programmer from Bulacan State University. I do frontend web development as well as mobile and game development. I am also a geek about the latest technologies today!</h3><br/>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/fmNdyGN4z5kAAAAi/hacking-lucy.gif">
+<img src="https://visitcount.itsvg.in/api?id=knjk&icon=0&color=0" alt="Views"/>
+
 💫 About Me:
-🔭 I’m currently working on PurrfectCode<br><br>🌱 I’m currently learning Kotlin, Frameworks, and Blender<br><br>💬 Ask me about Java<br><br>📫 How to reach me 3xjoseph@gmail.com<br><br>
+🔭 I’m currently working on PurrfectCode<br><br>
+🌱 I’m currently learning Kotlin, Frameworks, and Blender<br><br>
+💬 Ask me about Java<br><br>
+📫 How to reach me 3xjoseph@gmail.com<br><br>
 
 
 # 🌐 Socials:
@@ -62,28 +67,28 @@
 
 # 📊 GitHub Stats:
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xjoseph&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xjoseph&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 </br>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=3xjoseph&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=3xjoseph&theme=synthwave&hide_border=false" alt="GitHub Streak Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=3xjoseph&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=3xjoseph&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </p>
  
 ## 🏆 GitHub Trophies
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=3xjoseph&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=3xjoseph&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" alt="Trophies"/>
 </p>
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<p align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Quote"/>
+</p>
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=3xjoseph&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
- 👁👄👁 Profile Views
----
-[![](https://visitcount.itsvg.in/api?id=3xjoseph&icon=6&color=10)](https://visitcount.itsvg.in)
+<p align="center">
+ <img src="https://github-contributor-stats.vercel.app/api?username=3xjoseph&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repo"/>
+</p>
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/3xjosephpro) 
