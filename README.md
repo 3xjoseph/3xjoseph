@@ -8,7 +8,7 @@
 🔭 I’m currently working on PurrfectCode<br><br>🌱 I’m currently learning Kotlin, Frameworks, and Blender<br><br>💬 Ask me about Java<br><br>📫 How to reach me 3xjoseph@gmail.com<br><br>
 
 
-##🌐 Socials:
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/3xj0seph) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3x.joseph) 
 
 # 💻 Skills:
