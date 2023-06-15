@@ -61,12 +61,19 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=3xjoseph&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=3xjoseph&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=3xjoseph&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xjoseph&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
+</br>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=3xjoseph&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=3xjoseph&theme=synthwave&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+ 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=3xjoseph&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=3xjoseph&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
+</p>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
