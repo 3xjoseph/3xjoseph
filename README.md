@@ -75,7 +75,7 @@
 </p>
 </br>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=3xjoseph&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=3xjoseph&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="inline"/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3xjoseph&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </p>
  
