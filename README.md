@@ -4,7 +4,7 @@
 <h3 align="center">A student programmer from Bulacan State University. I do frontend web development as well as mobile and game development. I am also a geek about the latest technologies today!</h3><br/>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/fmNdyGN4z5kAAAAi/hacking-lucy.gif">
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on PurrfectCode<br><br>🌱 I’m currently learning Kotlin, Frameworks, and Blender<br><br>💬 Ask me about Java<br><br>📫 How to reach me 3xjoseph@gmail.com<br><br>
 
 
