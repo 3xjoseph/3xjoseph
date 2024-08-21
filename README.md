@@ -1,21 +1,18 @@
 ![MasterHead](https://ocl-steinberg-live.steinberg.net/_storage/asset/178442/storage/PNG_large_2000px/178442-large.png)
 <h1 align="center">Hi 👋, I'm Patrick Joseph Pronuevo</h1>
 <p align="left">
-<h3 align="center">A student programmer from Bulacan State University. I do frontend web development as well as mobile and game development. I am also a geek about the latest technologies today!</h3><br/>
+<h3 align="center">A graduate from Bulacan State University. I do frontend web development as well as mobile and game development. I am also a geek about the latest technologies today!</h3><br/>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/fmNdyGN4z5kAAAAi/hacking-lucy.gif">
 <img src="https://visitcount.itsvg.in/api?id=knjk&icon=0&color=0" alt="Views"/>
 
 💫 About Me:
-🔭 I’m currently working on PurrfectCode<br><br>
-🌱 I’m currently learning Kotlin, Frameworks, and Blender<br><br>
-💬 Ask me about Java<br><br>
-📫 How to reach me 3xjoseph@gmail.com<br><br>
+🔭 I’m currently working on Rise-Dive<br><br>
+🌱 I’m currently learning 3D Unity, Frameworks, and Blender<br><br>
+💬 Ask me about UNITY<br><br>
+📫 How to reach me pronuevopatrickjoseph@gmail.com<br><br>
 
 # 🌐 Socials:
-<a href="https://facebook.com/3xj0seph">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
-</a>
 <a href="https://instagram.com/3x.joseph">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
 </a>
