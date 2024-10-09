@@ -1,7 +1,9 @@
-![MasterHead](https://ocl-steinberg-live.steinberg.net/_storage/asset/178442/storage/PNG_large_2000px/178442-large.png)
-<h1 align="center">Hi 👋, I'm Patrick Joseph Pronuevo</h1>
-<p align="left">
-<h3 align="center">A graduate from Bulacan State University. I do frontend web development as well as mobile and game development. I am also a geek about the latest technologies today!</h3><br/>
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGQMjqAYI03Hg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728461472530?e=1733961600&v=beta&t=_ubCppJLSYIUQHSbqLi9wWHW6CNNdSnHq9AW5W9m6IQ) 
+# 👨‍💻 Patrick Joseph Pronuevo
+
+**`Game Developer (Developer/UI/UX/Programmer)`**
+
+I am a passionate and creative game developer specializing in both 2D and 3D game development using Unity. My focus is on creating immersive and engaging games that resonate with players. I'm always eager to learn new techniques, technologies, and trends in the gaming industry to continually enhance my craft and bring fresh, exciting experiences to my audience.
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/fmNdyGN4z5kAAAAi/hacking-lucy.gif">
 <img src="https://visitcount.itsvg.in/api?id=knjk&icon=0&color=0" alt="Views"/>
@@ -12,61 +14,72 @@
 💬 Ask me about UNITY<br><br>
 📫 How to reach me pronuevopatrickjoseph@gmail.com<br><br>
 
-# 🌐 Socials:
+# 🌐 Connect with Me:
+<a href="https://www.linkedin.com/in/patrick-joseph-pronuevo">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://patrickjoseph-pronuevos-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%231DBF7E.svg?logo=about.me&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://instagram.com/3x.joseph">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
 </a>
 
-# 💻 Skills:
-### 📝 Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🧰 Languages and Tools
 
-### 🖌️ Frontend Development
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-### 📱 Mobile App Development
-![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+<img align="left" alt="GitHub Pages" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
 
-### ☁️ Backend as a Service (BaaS)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
 
-### 🧰 Frameworks, Platforms & Libraries
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/>
+<img align="left" alt="MariaDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"/>
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-### 💡 Software
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) </br>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
 
-### 🕹️ Game Engines
-![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) 
+<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
+<img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg"/>
+<img align="left" alt="NPM" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"/>
 
-### 🤖 Other
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<br /> <!-- Ensures a break after the last group -->
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3xjoseph&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-</p>
-</br>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=3xjoseph&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xjoseph&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 180px"/>
-</p>
+<br /> <!-- This additional break separates the icons from the Stats header -->
+
+
+## 📊 Stats
+
+<div align="center">
+  <!-- Top: Streak stats -->
+  <div style="display: flex; justify-content: space-around; width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patPron&theme=panda&hide_border=false" width="60%">
+    <a href="https://github.com/patPron">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patPron&theme=panda&hide_border=false&include_all_commits=true&count_private=false" alt="Isagani's GitHub Contribution" width="60%">
+    </a>
+  </div>
+  
+  <!-- Bottom: Other stats side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=patPron&theme=panda&hide_border=false&include_all_commits=true&count_private=false" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patPron&theme=panda&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="42%">
+</div>
  
 ## 🏆 GitHub Trophies
 <p align="center">
