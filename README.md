@@ -70,15 +70,15 @@ I am a passionate and creative game developer specializing in both 2D and 3D gam
 <div align="center">
   <!-- Top: Streak stats -->
   <div style="display: flex; justify-content: space-around; width: 100%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patPron&theme=panda&hide_border=false" width="60%">
-    <a href="https://github.com/patPron">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patPron&theme=panda&hide_border=false&include_all_commits=true&count_private=false" alt="Isagani's GitHub Contribution" width="60%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3xjoseph&theme=panda&hide_border=false" width="60%">
+    <a href="https://github.com/3xjoseph">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3xjoseph&theme=panda&hide_border=false&include_all_commits=true&count_private=false" alt="Patrick's GitHub Contribution" width="60%">
     </a>
   </div>
   
   <!-- Bottom: Other stats side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=patPron&theme=panda&hide_border=false&include_all_commits=true&count_private=false" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patPron&theme=panda&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api?username=3xjoseph&theme=panda&hide_border=false&include_all_commits=true&count_private=false" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xjoseph&theme=panda&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="42%">
 </div>
  
 ## 🏆 GitHub Trophies
