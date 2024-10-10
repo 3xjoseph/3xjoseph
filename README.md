@@ -64,7 +64,6 @@ I am a passionate and creative game developer specializing in both 2D and 3D gam
 
 <br /> <!-- This additional break separates the icons from the Stats header -->
 
-
 ## 📊 Stats
 
 <div align="center">
