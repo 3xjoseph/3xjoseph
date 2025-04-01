@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/v2/D5616AQGQMjqAYI03Hg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728461472530?e=1733961600&v=beta&t=_ubCppJLSYIUQHSbqLi9wWHW6CNNdSnHq9AW5W9m6IQ](https://wallpapercat.com/w/full/c/7/e/5823589-2920x1640-desktop-hd-boy-programmer-wallpaper-image.jpg)) 
+![MasterHead]((https://wallpapercat.com/w/full/c/7/e/5823589-2920x1640-desktop-hd-boy-programmer-wallpaper-image.jpg)) 
 # 👨‍💻 Patrick Joseph Pronuevo
 
 **`Game Developer (Developer/UI/UX/Programmer)`**
