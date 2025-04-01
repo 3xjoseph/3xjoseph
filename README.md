@@ -1,4 +1,4 @@
-![image alt]([(https://wallpapercat.com/w/full/c/7/e/5823589-2920x1640-desktop-hd-boy-programmer-wallpaper-image.jpg)](https://github.com/3xjoseph/3xjoseph/blob/08e87fe84ac53349e2017ed850424a1796adc073/Patrick%20joseph%20pronuevo.png)) 
+![Header} (https://github.com/3xjoseph/3xjoseph/blob/08e87fe84ac53349e2017ed850424a1796adc073/Patrick%20joseph%20pronuevo.png)
 # 👨‍💻 Patrick Joseph Pronuevo
 
 **`Game Developer (Developer/UI/UX/Programmer)`**
