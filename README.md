@@ -1,7 +1,7 @@
 ![Header](https://github.com/3xjoseph/3xjoseph/blob/08e87fe84ac53349e2017ed850424a1796adc073/Patrick%20joseph%20pronuevo.png)
 # 👨‍💻 Patrick Joseph Pronuevo
 
-**`Game Developer (Developer/UI/UX/Programmer)`**
+**`Web and Game Developer (Web Developer/UI/UX Designer/Unity Game Developer)`**
 
 I am a passionate and creative game developer specializing in both 2D and 3D game development using Unity. My focus is on creating immersive and engaging games that resonate with players. I'm always eager to learn new techniques, technologies, and trends in the gaming industry to continually enhance my craft and bring fresh, exciting experiences to my audience.
 
