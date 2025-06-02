@@ -76,7 +76,7 @@ I am a passionate and creative game developer specializing in both 2D and 3D gam
   
   <!-- Bottom: Other stats side by side -->
   <img src="https://github-readme-stats.vercel.app/api?username=3xjoseph&theme=panda&hide_border=false&include_all_commits=true&count_private=false" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xjoseph&theme=panda&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xjoseph&theme=panda&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="35.5%">
 </div>
  
 ## 🏆 GitHub Trophies
