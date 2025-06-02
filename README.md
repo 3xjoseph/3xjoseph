@@ -97,8 +97,8 @@ I am a passionate and creative game developer specializing in both 2D and 3D gam
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3xjoseph&theme=panda&hide_border=false&include_all_commits=true&count_private=false" alt="Patrick's GitHub Contribution" width="65%">
     </a>
   </div>
-   <img src="https://github-readme-stats.vercel.app/api?username=3xjoseph&theme=panda&hide_border=false&include_all_commits=true&count_private=false" width="39%" height="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xjoseph&theme=panda&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="25.5%">
+   <img src="https://github-readme-stats.vercel.app/api?username=3xjoseph&theme=panda&hide_border=false&include_all_commits=true&count_private=false" width="37%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xjoseph&theme=panda&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="28%">
 </div>
  
 ## 🏆 GitHub Trophies
