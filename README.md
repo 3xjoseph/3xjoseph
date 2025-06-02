@@ -4,7 +4,7 @@
 **`Web and Game Developer (Web Developer/UI/UX Designer/Unity Game Developer)`**
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=3xjoseph.3xjoseph&left_color=burlywood&right_color=darkred&left_text=%F0%9F%91%80%20Visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=3xjoseph.3xjoseph&left_color=burlywood&right_color=tokyonight&left_text=%F0%9F%91%80%20Visitors"  />
 </div>
 
 I am a passionate and creative game developer specializing in both 2D and 3D game development using Unity. My focus is on creating immersive and engaging games that resonate with players. I'm always eager to learn new techniques, technologies, and trends in the gaming industry to continually enhance my craft and bring fresh, exciting experiences to my audience.
