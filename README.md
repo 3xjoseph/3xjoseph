@@ -6,7 +6,7 @@
 I am a passionate and creative game developer specializing in both 2D and 3D game development using Unity. My focus is on creating immersive and engaging games that resonate with players. I'm always eager to learn new techniques, technologies, and trends in the gaming industry to continually enhance my craft and bring fresh, exciting experiences to my audience.
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/fmNdyGN4z5kAAAAi/hacking-lucy.gif">
-<img src="https://visitcount.itsvg.in/api?id=knjk&icon=0&color=0" alt="Views"/>
+<img src="https://visitcount.itsvg.in/api?id=3xjoseph&icon=0&color=0" alt="Views"/>
 
 💫 About Me:
 🔭 I’m currently working on Upskilling<br><br>
