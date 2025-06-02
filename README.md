@@ -99,5 +99,10 @@ I am a passionate and creative game developer specializing in both 2D and 3D gam
   
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/3xjosephpro)
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3xjoseph/3xjoseph/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3xjoseph/3xjoseph/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/3xjoseph/3xjoseph/output/github-snake.svg" />
+  </picture>
+  
 </div>
-
