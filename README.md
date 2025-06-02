@@ -129,16 +129,6 @@ I am a passionate and creative game developer specializing in both 2D and 3D gam
   
 </div>
 
-<img src="https://raw.githubusercontent.com/3xjoseph/3xjoseph/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3xjoseph/3xjoseph/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3xjoseph/3xjoseph/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/3xjoseph/3xjoseph/output/pacman-contribution-graph.svg">
-</picture>
-
 
 
 
