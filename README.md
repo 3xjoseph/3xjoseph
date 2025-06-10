@@ -55,38 +55,38 @@ I am a passionate and creative game developer specializing in both 2D and 3D gam
 <br>
 
 <div align="center">
-  <img align="center" alt="C#" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="center" alt="C++" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="center" alt="Java" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="center" alt="Python" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="C#" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="center" alt="C++" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="center" alt="Java" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="center" alt="Python" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-<img align="center" alt="HTML5" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="CSS3" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="center" alt="Bootstrap" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img align="center" alt="TailwindCSS" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="center" alt="jQuery" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
-<img align="center" alt="GitHub Pages" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="center" alt="HTML5" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="center" alt="CSS3" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" alt="Bootstrap" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img align="center" alt="TailwindCSS" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="center" alt="jQuery" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+<img align="center" alt="GitHub Pages" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-<img align="center" alt="Unity" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
-<img align="center" alt="Blender" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
+<img align="center" alt="Unity" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+<img align="center" alt="Blender" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
 
-<img align="center" alt=".NET" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
-<img align="center" alt="Flutter" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-<img align="center" alt="WordPress" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
+<img align="center" alt=".NET" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+<img align="center" alt="Flutter" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img align="center" alt="WordPress" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
 
-<img align="center" alt="Firebase" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/>
-<img align="center" alt="MariaDB" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"/>
-<img align="center" alt="MongoDB" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img align="center" alt="MySQL" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="center" alt="Firebase" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/>
+<img align="center" alt="MariaDB" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"/>
+<img align="center" alt="MongoDB" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="center" alt="MySQL" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-<img align="center" alt="Git" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="center" alt="GitHub" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="center" alt="GitLab" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
+<img align="center" alt="Git" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" alt="GitHub" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="center" alt="GitLab" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
 
-<img align="center" alt="Arduino" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-<img align="center" alt="Jira" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
-<img align="center" alt="Notion" width="52" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg"/>
-<img align="center" alt="NPM" width="52" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"/>
+<img align="center" alt="Arduino" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+<img align="center" alt="Jira" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
+<img align="center" alt="Notion" width="35" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg"/>
+<img align="center" alt="NPM" width="35" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"/>
 </div>
 
 ## 📊 Stats
