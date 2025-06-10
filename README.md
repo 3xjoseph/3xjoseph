@@ -13,7 +13,7 @@ I am a passionate and creative game developer specializing in both 2D and 3D gam
 
 💫 About Me:
 🔭 I’m currently working on Upskilling<br><br>
-🌱 I’m currently learning 3D Unity, Frameworks, and Blender<br><br>
+🌱 I’m currently learning NodeJS and ExpressJS<br><br>
 💬 Ask me about UNITY<br><br>
 📫 How to reach me pronuevopatrickjoseph@gmail.com<br><br>
 
